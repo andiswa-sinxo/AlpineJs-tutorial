@@ -16,6 +16,7 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
+  background-color: #DB9065;
 }
 
 /* ROOT FONT STYLES */
@@ -107,6 +108,7 @@ p {
   float: left;
   margin: 0.5rem 2%;
   min-height: 0.125rem;
+  background-color: #F0B67F;
 
 }
 .border{
